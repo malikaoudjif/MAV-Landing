@@ -5,5 +5,5 @@ On file cameracalib.py you will have to change parameters board
 'nCols = 7'
 'dimension = 37 in mm'
 workingFolder   = "./camera_01"
-imageType       = 'jpg'
+imageType       = 'jpg
 
